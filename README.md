@@ -21,7 +21,7 @@ The class is designed to be viewed from start to finish in sequence as each modu
  - Image of the whiteboard created
  - Any other artifacts such as code samples
 
-Additionally, there are many recommended videos to watch for each module which are shown below.
+*Additionally*, there are many recommended videos to watch for each module which are shown below.
 
 | Module | Additional Recommended Videos |
 |--|--|
